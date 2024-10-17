@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Django , CSS , HTML and JS<br>My favorite languages are Python and Java<br>I have some projects using ML , Java , CSS and HTML<br>I'm interested in AI and data science
+I'm currently learning Django<br>My favorite languages are Python and Java<br>I have some projects using ML , Java , CSS and HTML<br>I'm interested in AI and data science
 
 
 ## 🌐 Socials:
